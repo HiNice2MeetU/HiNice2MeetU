@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @HiNice2MeetU
+- 👀 I’m interested in java, android and game development
+- 🌱 I’m currently learning java swing
+- 💞️ I’m looking to collaborate on anything java (im currently developing a text editor in java), android, godot. 
